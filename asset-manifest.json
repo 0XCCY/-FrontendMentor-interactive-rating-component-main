@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-interactive-rating-component-main/static/css/main.0ef75b50.css",
+    "main.js": "/FrontendMentor-interactive-rating-component-main/static/js/main.d11d942f.js",
+    "static/js/787.5c958126.chunk.js": "/FrontendMentor-interactive-rating-component-main/static/js/787.5c958126.chunk.js",
+    "static/media/illustration-thank-you.svg": "/FrontendMentor-interactive-rating-component-main/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/FrontendMentor-interactive-rating-component-main/index.html",
+    "static/media/icon-star.svg": "/FrontendMentor-interactive-rating-component-main/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.0ef75b50.css.map": "/FrontendMentor-interactive-rating-component-main/static/css/main.0ef75b50.css.map",
+    "main.d11d942f.js.map": "/FrontendMentor-interactive-rating-component-main/static/js/main.d11d942f.js.map",
+    "787.5c958126.chunk.js.map": "/FrontendMentor-interactive-rating-component-main/static/js/787.5c958126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef75b50.css",
+    "static/js/main.d11d942f.js"
+  ]
+}
