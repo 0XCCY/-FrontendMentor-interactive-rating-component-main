@@ -14,8 +14,10 @@ const Ratings = ({ rating, setRating }) => {
           <div key={i + 1}>
             <button
               className={`${
-                i + 1 === selection ? "bg-LightGrey" : "bg-DarkBlue"
-              }  w-14 h-14 rounded-full text-white font-bold hover:bg-Orange`}
+                i + 1 === selection
+                  ? "bg-LightGrey text-white"
+                  : "bg-DarkBlue text-LightGrey "
+              }   rounded-full  py-2 px-4  sm:py-3 sm:px-5 hover:bg-Orange`}
               onClick={() => handleClick(i + 1)}
             >
               {i + 1}

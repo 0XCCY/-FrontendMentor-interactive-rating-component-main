@@ -7,7 +7,7 @@ function App() {
   const [rating, setRating] = useState(0);
 
   return (
-    <div className="flex justify-center items-center align-middle bg-DarkBG min-h-screen min-w-screen">
+    <div className="flex justify-center items-center align-middle bg-DarkBG min-h-screen min-w-screen p-6">
       {submitted ? (
         <Submitted rating={rating} />
       ) : (

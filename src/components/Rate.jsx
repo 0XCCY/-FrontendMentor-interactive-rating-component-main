@@ -13,7 +13,7 @@ const Rate = ({ setSubmitted, setRating, rating }) => {
   };
 
   return (
-    <div className="flex flex-col p-8 rounded-3xl bg-gradient-to-tr from-GradientStart to-DarkBlue  md:max-w-md max-w-[26rem]">
+    <div className="flex flex-col p-8 rounded-3xl bg-gradient-to-tr from-GradientStart to-DarkBlue max-h-[431px] sm:max-w-md md:px-8">
       <div className="mb-8">
         <Star />
       </div>
@@ -25,7 +25,7 @@ const Rate = ({ setSubmitted, setRating, rating }) => {
       <div>
         <Ratings setRating={setRating} />
       </div>
-      <form onSubmit={(e) => handleSubmit(e)}>
+      <form className="mb-4" onSubmit={(e) => handleSubmit(e)}>
         <Button />
       </form>
     </div>
