@@ -31,20 +31,22 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Pages](https://github.com/0XCCY/FrontendMentor-interactive-rating-component-main)
+- Live Site URL: [Repo](https://0xccy.github.io/FrontendMentor-interactive-rating-component-main/)
 
 ## My process
 
 ### Built with
 
-- Create-React-App
+- [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html) - Toolchain
 - [React](https://reactjs.org/) - JS library
-- Tailwind CSS - For Styles
+- [Tailwind CSS](https://tailwindcss.com/) - For Styles
+- [gh-pages](https://www.npmjs.com/package/gh-pages) - For GitHub Page deployment
 
 ### What I learned
 
-TBD
+- Using Tailwind for the first time, not having to move between files and thinking about class names is a boon.
+- Using gh-pages to deploy React app
 
 ## Author
 
